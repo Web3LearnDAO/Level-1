@@ -1,6 +1,6 @@
 # Level-1
 
-# Introduction to Ethereum
+## Introduction to Ethereum
 
 ## Learning Outcomes
 - [1. Theory](#1.-Theory)

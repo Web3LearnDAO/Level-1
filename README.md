@@ -1,8 +1,8 @@
 # Level-1
 
-## Introduction to Ethereum
+### Introduction to Ethereum
 
-## Learning Outcomes
+### Learning Outcomes
 - [1. Theory](#1.-Theory)
   - [What is Ethereum](#What-is-Ethereum)
   - [Ethereum Basics](#Ethereum-Basics)

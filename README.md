@@ -12,7 +12,7 @@
   - [Required Readings](#Required-Readings)
 
 
-## 1. Theory
+### 1. Theory
 ### What is Ethereum
 Ethereum is an open source software running on a decentralized network of computers. Ethereum maintains consensus across all the computers in it's network with Proof of Work (PoW). In the near future Ethereum will be moving to a Proof of Stake (PoS) mechanism.
 

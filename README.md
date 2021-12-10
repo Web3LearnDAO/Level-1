@@ -40,4 +40,6 @@ Never give out your private keys or seed phrase. If anyone ever asks for them, r
   - https://blockgeeks.com/guides/smart-contracts/
   - https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/
 
+# Skill Test
 
+Test Link

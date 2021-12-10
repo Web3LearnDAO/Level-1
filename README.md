@@ -1,5 +1,7 @@
 # Level-1
 
+**This Level was brought to you by our partners, BDU. Here is a link to the original lesson, and here is their discord***
+
 ### Introduction to Ethereum
 
 ### Learning Outcomes
